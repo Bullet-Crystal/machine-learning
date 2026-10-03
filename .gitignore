@@ -1,8 +1,10 @@
-/framework/
-/gan_project/
-/videos/
-
 /build.sh
 /main
 /main.cpp
 /output.txt
+
+/gan_project/
+/videos/
+/mnist/
+
+**/main
