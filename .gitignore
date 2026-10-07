@@ -6,5 +6,8 @@
 /gan_project/
 /videos/
 /mnist/
+/framework/app*
+/framework/build/
+/framework/imgui.ini
 
 **/main
